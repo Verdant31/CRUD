@@ -1,0 +1,21 @@
+"filename", "language", "JSON", "TypeScript", "XML", "TypeScript React", "JavaScript", "Markdown", "comment", "blank", "total"
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\.eslintrc.json", "JSON", 3, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\README.md", "Markdown", 0, 0, 0, 0, 0, 20, 0, 15, 35
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\next-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 5, 2, 7
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\next.config.js", "JavaScript", 0, 0, 0, 0, 3, 0, 1, 1, 5
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\package.json", "JSON", 32, 0, 0, 0, 0, 0, 0, 1, 33
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\public\close.svg", "XML", 0, 0, 3, 0, 0, 0, 0, 1, 4
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\public\logo.svg", "XML", 0, 0, 32, 0, 0, 0, 0, 1, 33
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\src\components\Enquetes\EnquetesEA\index.tsx", "TypeScript React", 0, 0, 0, 22, 0, 0, 0, 3, 25
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\src\components\Enquetes\EnquetesF\index.tsx", "TypeScript React", 0, 0, 0, 19, 0, 0, 0, 3, 22
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\src\components\Enquetes\EnquetesNI\index.tsx", "TypeScript React", 0, 0, 0, 22, 0, 0, 0, 3, 25
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\src\components\Enquetes\index.tsx", "TypeScript React", 0, 0, 0, 15, 0, 0, 0, 2, 17
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\src\components\Header\index.tsx", "TypeScript React", 0, 0, 0, 19, 0, 0, 0, 5, 24
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\src\components\NewSurveyModal\index.tsx", "TypeScript React", 0, 0, 0, 40, 0, 0, 0, 3, 43
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\src\pages\_app.tsx", "TypeScript React", 0, 0, 0, 13, 0, 0, 0, 2, 15
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\src\pages\_document.tsx", "TypeScript React", 0, 0, 0, 19, 0, 0, 0, 3, 22
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\src\pages\index.tsx", "TypeScript React", 0, 0, 0, 21, 0, 0, 0, 7, 28
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\src\styles\global.ts", "TypeScript", 0, 22, 0, 0, 0, 0, 0, 8, 30
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\src\styles\theme.ts", "TypeScript", 0, 23, 0, 0, 0, 0, 0, 2, 25
+"c:\Users\joaop\Desktop\SignoWebCRUD\signowebcrud\tsconfig.json", "JSON", 19, 0, 0, 0, 0, 0, 0, 1, 20
+"Total", "-", 54, 45, 35, 190, 3, 20, 6, 64, 417

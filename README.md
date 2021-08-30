@@ -1,46 +1,51 @@
 
-<h4 align="center">
-  Criação de enquetes (CRUD)
-</h4>
+# CRUD ❤️
 
-<p align "center">
-  <img  src= "https://github.com/Verdant31/SignoCRUD/blob/main/signowebcrud/public/img.jpg">
- </p>
+&nbsp;
 
-## Tecnologias
+![mock1](https://github.com/Verdant31/SignoCRUD/blob/main/signowebcrud/public/img.jpg)
 
-Esse projeto foi desenvolvido usando tecnologias front-end de ponta.
+## 📚 Informações sobre o projeto
 
-- [ReactJS](https://reactjs.org/)
-- [ChakraUI](https://chakra-ui.com/)
-- [Typescript](https://www.typescriptlang.org/)
-- [NodeJS](https://nodejs.org/en/)
-- [MySQL](https://www.mysql.com/)
+* Desenvolvi esse projeto com o intuito de ser aprovado em um teste de competência para uma vaga de Estágio em Desenvolvimento Web.
 
-## 💻 Getting started
+&nbsp;
 
-### Requerimentos
+## 💻 Sobre o projeto
 
-- Você precisa installar o [Node.js](https://nodejs.org/en/download/) e o [Yarn](https://yarnpkg.com/) para rodar esse projeto.
-**Clone o projeto e acesse a pasta**
+* Design feito com ChakraUI
+* Integração com um banco de dados MySQL com NodeJS
 
-```bash
-$ git clone https://github.com/Verdant31/SignoCRUD && cd SignoCRUD
+&nbsp;
+
+## 🛠️ Tecnologias/Ferramentas ultilizadas
+
+* [React](https://pt-br.reactjs.org/E)
+* [Next.js](https://nextjs.org/)
+* [Chakra UI](https://chakra-ui.com/)
+* [MySQL](https://www.mysql.com/)
+* [NodeJS](https://nodejs.org/en/)
+
+&nbsp;
+
+## ⚙️ Instalação
+```
+# Abra um terminal e copie este repositório com o comando
+$ git clone https://github.com/Verdant31/CRUD.git
 ```
 
-**Siga os passos abaixo**
+```
+# Acesse a pasta da aplicação
+$ cd CRUD
 
-```bash
 # Instale as dependências
 $ yarn
 
-# Inicie o server back-end
-$ yarn server
+# Inicie a aplicação
+$ yarn start
 
-# Rode o webserver
-$ yarn dev
 ```
 
-A aplicação ficará disponivel para acesso no seu navegador no link `http://localhost:3000`
+&nbsp;
 
-
+<p align="center">Feito por João Piovesan 📗</p>
